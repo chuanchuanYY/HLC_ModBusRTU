@@ -1,5 +1,7 @@
 # ModbusRTU
 
+## NuGet\Install-Package HLCModbusRTU -Version 1.2.0
+
 A simple serial communication library of ModbusRTU
 
 CRC16：Cyclical Redundancy Check
